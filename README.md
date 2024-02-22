@@ -1,2 +1,5 @@
 # Ola mundo
- primeiro repositorio
+ Meu primeiro repositorio no github.
+ Entendendo a como funciona.
+
+ 
